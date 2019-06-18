@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<credentials>
+    <Version>1.0.4</Version>
+    <OutLetRegNo>R009</OutLetRegNo>
+    <Device_ID>700999DB-2F2F</Device_ID>
+    <SQLIP>192.168.5.21:1433</SQLIP>
+    <DatabaseName>POSX</DatabaseName>
+    <DBuser>sa</DBuser>
+    <Password>sa9</Password>
+</credentials>
